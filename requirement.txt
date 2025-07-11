@@ -1,9 +1,10 @@
 fastapi
 uvicorn
 pydantic
-#json
+pypi-json
 scikit-learn
 requests
 ipykernel
 numpy
 pandas
+pickles
